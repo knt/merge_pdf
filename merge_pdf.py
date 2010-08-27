@@ -1,8 +1,4 @@
-<<<<<<< local
-#!/bin/python
-=======
 #!/usr/bin/python
->>>>>>> other
 
 from pyPdf import PdfFileWriter, PdfFileReader
 import sys
